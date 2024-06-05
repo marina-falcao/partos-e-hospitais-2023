@@ -1,5 +1,7 @@
 # Partos e hospitais 2023
-Dashboard mostrando uma análise descritiva conjunta dos datasets Nascidos Vivos - 2023 (Datasus) e Instituições Hospitalares (CNES).
+Dashboard mostrando uma análise descritiva conjunta dos datasets Nascidos Vivos - 2023 (Datasus) e Instituições Hospitalares (CNES). 
+
+**Acesso ao dashboard**: https://app.powerbi.com/view?r=eyJrIjoiYmQ4NWYxMzEtOWJhMC00YjdiLTg1ODktMmIzNjdlYTVlZjJmIiwidCI6ImVmMmFiMTYxLTkzMTUtNDlkNy05N2JlLWE5Yjg1NzQ0MjlkYyJ9
 
 A análise das duas bases juntas gerou dados bem interessantes sobre o cenário obstétrico brasileiro:
 
@@ -19,9 +21,7 @@ Acredito que o diferencial desse dashboard é o fato de podermos consultar os da
 
 # Arquivos
 
-•	Dataset CNES original.
-
 •	Notebook com junção e tratamento dos datasets;
 
-•	Dashboard para apresentação interativa dos dados.
+•	Dataset pós junção e tratamento;
 
